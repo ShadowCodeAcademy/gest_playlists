@@ -1,6 +1,4 @@
 
----
-
 ## 5️⃣ gest_playlists – Gestion de playlists musicales
 
 ```md
